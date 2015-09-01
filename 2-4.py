@@ -36,7 +36,7 @@ def merge(s, p, Length):
     s[:] = c[:]
     return num
 
-a = [7, 6, 5, 4, 3, 2, 1]
+a = [ 3, 2, 4]
 print(inversion(a))
 
 
